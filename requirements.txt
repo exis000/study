@@ -4,3 +4,5 @@ python-dotenv
 pytesseract
 python-multipart
 Pillow
+google-genai
+pydantic
